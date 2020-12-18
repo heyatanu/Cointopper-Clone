@@ -1,2 +1,6 @@
 # Cointopper-Clone
-Only HTML CSS JS
+
+
+This is a clone of cointopper website clone 
+
+Useing HTMl CSS and Js
